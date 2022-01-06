@@ -229,7 +229,7 @@
           <h2>APOGS 2021-22 </h2>
 		</div>
 		<div class="align-self-center"  >
-		 <img style ="border: 0px solid #ddd;" src="assets/img/Logo.jpeg" height="200" width="300" class="img-thumbnail" alt="">
+		 <img style ="border: 0px solid #ddd;" src="assets/img/Logo.jpeg" height="100" width="100" class="img-thumbnail" alt="">
 		
 		
          <!-- <img src="assets/img/logo.jpeg" class="img-fluid" alt="">-->
@@ -1254,7 +1254,7 @@
 	
 	 <div class="col-lg-6">
 
-        <div class="foot-update" align='right' style="color:#FFFFFF;"> Last Update: 06/07/2021</div>
+        <div class="foot-update" align='right' style="color:#FFFFFF;"> Last Update: 06/01/2022</div>
 
       </div>
 	  </div>
