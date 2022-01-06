@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>APOGS - Index</title>
+  <title>APOGS - Home Page</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -121,16 +121,7 @@
               <li><a href="#">Good Clinical Practice</a></li>
               <li><a href="#">GOI Guidelines</a></li>
               <li><a href="#">GOI Acts & Rules</a></li>
-              <li><a href="#">Events Of 2021-22 </a></li>
-			   <li><a href="#">Events Of 2020-21</a></li>
-			    <li><a href="#">Events Of 2019-20</a></li>
-				 <li><a href="#">Events Of 2018-19</a></li>
-				 <li><a href="#">Events Of 2017-18</a></li>
-				 <li><a href="#">Events Of 2016-17</a></li>
-				 <li><a href="#">President's Report</a></li>
-				 <li><a href="#">APOGS Past year Events</a></li>
-				 <li><a href="#">ObGyn watch</a></li>
-				 <li><a href="#">Quiz</a></li>
+              
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#services">Classifieds</a></li>
@@ -238,7 +229,7 @@
           <h2>APOGS 2021-22 </h2>
 		</div>
 		<div class="align-self-center"  >
-		 <img style ="border: 0px solid #ddd;" src="assets/img/logo.jpeg" height="200" width="300" class="img-thumbnail" alt="">
+		 <img style ="border: 0px solid #ddd;" src="assets/img/Logo.jpeg" height="200" width="300" class="img-thumbnail" alt="">
 		
 		
          <!-- <img src="assets/img/logo.jpeg" class="img-fluid" alt="">-->
