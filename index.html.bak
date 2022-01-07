@@ -274,7 +274,7 @@
 
                   <div class="panel-heading" style="padding: 20px;">
 
-                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">DR. SUCHISMITA<i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">DR. SUCHISMITA  <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
 
                   </div>
 
@@ -286,7 +286,7 @@
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. PADMINI PRASAD</p>
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. PADMINI PRASAD </p>
 
                     </div>
 
@@ -1116,7 +1116,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>mail id to be mentioned</p>
+                <p>apogs2022@gmail.com</p>
               </div>
 
               <div class="phone">
