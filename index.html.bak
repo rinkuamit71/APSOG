@@ -207,7 +207,8 @@
       <div class="row">
         <div class="col-lg-9 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-2" data-aos="fade-up" data-aos-delay="200" class="aligncenter" >
           <h1>Welcome to APOGS</h1>
-          <h2>Andhra Pradesh Society of Obstetrics & Gynaecology is a vibrant member body of the Federation of Obstetric & Gynaecological Societies of India. It is a forum comprising of over 1000+ practicing ObGyns who have put themselves together to keep themselves updated on recent developments in the field, and translate that into positive measures to improve the health status of our women..</h2>
+          <h2>Andhra Pradesh Society of Obstetrics & Gynaecology is a vibrant member body of the Federation of Obstetric & Gynaecological Societies.</h2> 
+		  <h2>It is a forum comprising of over 1000+ practicing ObGyns who have put themselves together to keep themselves updated on recent developments in the field, and translate that into positive measures to improve the health status of our women..</h2>
           
 		  <!--<div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -221,6 +222,8 @@
     </div>
 
   </section><!-- End Hero -->
+  
+  <!--
   <section id="cliens" class="cliens section-bg">
    <div class="container">
       <div class="row" data-aos="zoom-in">
@@ -233,24 +236,26 @@
 		
 		
          <!-- <img src="assets/img/logo.jpeg" class="img-fluid" alt="">-->
-        </div>
+        <!--</div>
 		</div>
       </div>
     </div>
-	</section><!-- End Hero -->
+	</section> End Hero -->
 	
 	<!-- section commitee start -->
 	<section id="clients">
 
-  <div class="container">
+  <div class="container" >
 
     <div class="row">
 
-      <div class="col-md-12">
+      <div class="col-md-12" style="background-color: #37517e;">
 
         <div class="aligncenter">
 
-          <h2 class="pageborder1">Click on names to view</h2>
+          <h2 class="pageborder1">
+		  <b style="color: #fff;"> 
+		  Click on names to view</b></h2>
 
           <p>&nbsp;</p>
 
@@ -258,7 +263,9 @@
 
             <div class="col-md-4">
 
-              <p class="namess">Office Bearers</p>
+              <p class="namess">
+			  <b style="color: #fff;">Office Bearers
+			  </b></p>
 
 
 			<div  id="accordion">
@@ -297,7 +304,8 @@
 	
 	<div class="col-md-4">
 
-              <p class="namess">Zone Wise Presidents and Secretaries</p>
+              <p class="namess">
+			  <b style="color: #fff;">Zone Wise Presidents and Secretaries</b></p>
 
 			  
 
@@ -338,7 +346,9 @@
 			  
 			  <div class="col-md-4">
 
-              <p class="namess">Invited Members</p>
+              <p class="namess">
+			  <b style="color: #fff;">Invited Members
+			  </b></p>
 
               <div  id="accordion">
 
@@ -369,7 +379,9 @@
               </div>
 			  
 			  <!-- ====================================================================== -->
-			   <p class="namess">Advisory Committee members</p>
+			   <p class="namess">
+			   <b style="color: #fff;">Advisory Committee members
+			   </b></p>
 			            <div id="accordion">
 
                 <div class="panel panel-default">
