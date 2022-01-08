@@ -261,12 +261,13 @@
 
           <div class="row">
 
-            <div class="col-md-4">
+            
 
               <p class="namess">
-			  <b style="color: #fff;">Office Bearers
+			  <b style="color: #fff; font: "25px Arial, sans-serif;" >Office Bearers
 			  </b></p>
-
+				
+			<div class="col-sm-6" >
 
 			<div  id="accordion">
 
@@ -274,19 +275,55 @@
 
                   <div class="panel-heading" style="padding: 20px;">
 
-                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">DR. SUCHISMITA  <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">APOGS President  <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
 
                   </div>
 
                   <div id="collapse2" class="panel-collapse collapse">
 
-                    <div class="panel-body" style="background-color: #fff;">
+                    <div class="panel-body" style="background-color: #fff;" class="center">
 
-                      <p><a href="committee/DR_PADMINI_PRASAD.jpg"><img class="alignleft size-full wp-image-913" src="committee/DR_PADMINI_PRASAD.jpg" alt="DR. THEJAVATHY G V"></a></p>
+                      <p><a href="assets/img/photo_home/committee/GangaSuchismita.jpeg">
+					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/GangaSuchismita.jpeg" class="center"></a></p>
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. PADMINI PRASAD </p>
+                      <p><b style="color: #cf6a14;" class="align-items-center"></b> Dr. GANGA SUCHISMITA </p>
+
+                    </div>
+
+                  </div>
+				  
+				  
+
+                </div>
+
+
+              </div>
+			  </div>
+			  
+				<div class="col-sm-6">
+			  	
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">APOGS Secretary  
+					<i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse3" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Uma_Shankar.jpeg">
+					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/Uma_Shankar.jpeg"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;"></b>Dr. UMA SHANKAR</p>
 
                     </div>
 
@@ -295,19 +332,13 @@
                 </div>
 
 
-              </div>
-
-	</div>
-
-
+             	</div>
+				<p class="namess">
+			   <b style="color: #fff;">Zone Wise Presidents and Secretaries
+			   </b></p>
 
 	
-	<div class="col-md-4">
-
-              <p class="namess">
-			  <b style="color: #fff;">Zone Wise Presidents and Secretaries</b></p>
-
-			  
+				<div class="col-sm-4">
 
 			   <div id="accordion">
 
@@ -315,24 +346,90 @@
 
                   <div class="panel-heading" style="padding: 20px;">
 
-                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse15">VIZAG <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">VIZAG
+					<i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
 
                   </div>
 
-                  <div id="collapse15" class="panel-collapse collapse">
+                  <div id="collapse5" class="panel-collapse collapse">
 
                     <div class="panel-body" style="background-color: #fff;">
 
-                      <p><a href="assets/img/photo_home/committee/Padmavati_vizag.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Padmavati_vizag.jpeg" alt=" Padmavati"></a></p>
+                      <p><a href="assets/img/photo_home/committee/vizag_Padmavati.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/vizag_Padmavati.jpeg" alt="TPadmavati"></a></p>
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">PRESIDENT VIZAG:</b> DR. T PADMAVATHI</p>
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. T PADMAVATHI</p>
 					  
-                      <p><a href="assets/img/photo_home/committee/Padmavati_vizag.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Padmavati_vizag.jpeg" alt=" Padmavati"></a></p>
+                      <p><a href="assets/img/photo_home/committee/vizag_Shailaja.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/vizag_Shailaja.jpeg" alt="Shailaja"></a></p>
 					  <br>
 
-                      <p><b style="color: #cf6a14;">SECRETORY VIZAG:</b> DR. T PADMAVATHI</p>
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.SHAILAJA PINJALA</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			    <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">KAKINADA <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse6" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/KAKINADA_Anuragamayi.png"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/KAKINADA_Anuragamayi.png" alt="Anuragamayi"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR.ANURAGAMAYI</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg" alt="karunakumari"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.KARUNA KUMARI</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			    
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">TIRUPATI <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse7" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Anuragamayi_KAKINADA.png"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.png" alt="PBHARATHI"></></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR.P BHARATHI</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="PADMAVATI"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.PADMAVATI</p>
 
                     </div>
 
@@ -342,12 +439,345 @@
 
               </div>
 			  
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">GUNTUR <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse8" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Guntur_VenkateswaraRao.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Guntur_VenkateswaraRao.jpeg" alt="VENKATESWARARAO"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. VENKATESWARA RAO</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="SHANKAR"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.S UMA SHANKAR</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">BHIMAVARAM <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse9" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Bhimavaram_LakshmiIrrinki.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Bhimavaram_LakshmiIrrinki.jpeg" alt="ILAKSHMI"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. I LAKSHMI</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/Bhimavaram_SujayasriSangita.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Bhimavaram_SujayasriSangita.jpeg" alt="SUJAYASANGITA"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR. SUJAYA SANGITA</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			   
 			  </div>
+			  
+			  <div class="col-sm-4">
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">RAJAHMUNDRY <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse10" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/RAJAHMUNDRY_Padmaja.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/RAJAHMUNDRY_Padmaja.jpeg" alt="PADMAJA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR.PADMAJA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/RAJAHMUNDRY_MDivya.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/RAJAHMUNDRY_MDivya.jpeg" alt="DIVYA"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.M DIVYA</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">ONGOLE <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse11" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Ongole_NAruna.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Ongole_NAruna.jpeg" alt="ARUNA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. N ARUNA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/Ongole_Sridevi.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Ongole_Sridevi.jpeg" alt="SRIDEVI"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR. SRIDEVI</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">KARNOOL <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse12" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="PADMAJA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. </p>
+					  
+                      <p><a href="assets/img/photo_home/committee/Kurnool_SManikyaRAO.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Kurnool_SManikyaRAO.jpeg" alt="MANIKYA"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR. MANIKYA RAO</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  
+			   <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse13">VIJAYAWADA <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse13" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/vijayawada_GitaDevi.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/vijayawada_GitaDevi.jpeg" alt="GITA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. GITA DEVI </p>
+					  
+                      <p><a href="assets/img/photo_home/committee/vijayawada_NSailaja.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/vijayawada_NSailaja.jpeg" alt="NSAILAJA"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR. N SAILAJA</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  
+			  
+			  </div>
+			  
+			  <div class="col-sm-4">
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse14">NELLORE <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse14" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Nellore_Syamalamma.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Nellore_Syamalamma.jpeg" alt="Syamalamma"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR.SYAMALAMMA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/Nellore_Apoorva.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Nellore_Apoorva.jpeg" alt="Apoorva"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.APOORVA</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse15">ANANTAPUR <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse15" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Anantapur_ArunaKumari.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Anantapur_ArunaKumari.jpeg" alt="BARUNA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. B ARUNA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/Anantapur_KrishnaShasi.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Anantapur_KrishnaShasi.jpeg" alt="KRISHNA"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR. SRI KRISHNA SASI</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse16">KADAPA <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse16" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/Kadapa_PadmaLatha.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Kadapa_PadmaLatha.jpeg" alt="Syamalamma"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. PADMA LATHA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="Apoorva"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  
+			  <div id="accordion">
+
+                <div class="panel panel-default">
+
+                  <div class="panel-heading" style="padding: 20px;">
+
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse17">ELURU <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+
+                  </div>
+
+                  <div id="collapse17" class="panel-collapse collapse">
+
+                    <div class="panel-body" style="background-color: #fff;">
+
+                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="NIRMALA"></a></p>
+
+                      <br>
+
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. NIRMALA</p>
+					  
+                      <p><a href="assets/img/photo_home/committee/eluru_PVani.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/eluru_PVani.jpeg" alt="Apoorva"></a></p>
+					  <br>
+
+                      <p><b style="color: #cf6a14;">SECRETARY :</b> DR.P. VANI</p>
+
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+			  </div>
+			  
 			  
 			  <div class="col-md-4">
 
               <p class="namess">
-			  <b style="color: #fff;">Invited Members
+			  <b style="color: #fff;">Members
 			  </b></p>
 
               <div  id="accordion">
@@ -356,7 +786,7 @@
 
                   <div class="panel-heading" style="padding: 20px;">
 
-                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse18">DR. KAMINI A RAO <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse18">DR.  <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
 
                   </div>
 
@@ -368,7 +798,7 @@
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">President:</b> DR. KAMINI A RAO</p>
+                      <p><b style="color: #cf6a14;">Executive Member:</b> DR. </p>
 
                     </div>
 
@@ -388,7 +818,8 @@
 
                   <div class="panel-heading" style="padding: 20px;">
 
-                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse241">DR. GOMATHY NARAYANAN R <i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
+                    <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapse241">DR.  
+					<i class="more-less glyphicon glyphicon-plus"></i></a> </h4>
 
                   </div>
 
@@ -400,7 +831,7 @@
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">Advisory Committee:</b> DR. GOMATHY NARAYANAN R</p>
+                      <p><b style="color: #cf6a14;">Advisory Committee:</b> DR. </p>
 
                     </div>
 
@@ -1122,7 +1553,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>phone no. to be mentioned</p>
+                <p>9848590244</p>
               </div>
 
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239.0774272512887!2d80.62967699085067!3d16.514035783353982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35effe4a0b3df5%3A0xb4f13a7dd38ac47c!2s27%201%2C%2011%2C%20Eluru%20Rd%2C%20Near%20Ramamandiram%2C%20Arundalpet%2C%20Governor%20Peta%2C%20Vijayawada%2C%20Andhra%20Pradesh%20520002%2C%20India!5e0!3m2!1sen!2sbg!4v1641400373404!5m2!1sen!2sbg" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen="" loading="lazy>
