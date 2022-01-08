@@ -264,7 +264,7 @@
             
 
               <p class="namess">
-			  <b style="color: #fff; font: "25px Arial, sans-serif;" >Office Bearers
+			  <b style="color: #fff;">Office Bearers
 			  </b></p>
 				
 			<div class="col-sm-6" >
@@ -794,7 +794,7 @@
 
                     <div class="panel-body" style="background-color: #fff;">
 
-                      <p><a href="committee/Dr-Kamini-Rao.jpg"><img class="alignleft size-full wp-image-913" src="committee/Dr-Kamini-Rao.jpg" alt="DR. KAMINI A RAO"></a></p>
+                      <p><a href="assets/img/photo_home/committee/Dr-Kamini-Rao.jpg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Dr-Kamini-Rao.jpg" alt="DR. KAMINI A RAO"></a></p>
 
                       <br>
 
@@ -810,7 +810,7 @@
 			  
 			  <!-- ====================================================================== -->
 			   <p class="namess">
-			   <b style="color: #fff;">Advisory Committee members
+			   <b style="color: #fff;">Advisory committee members
 			   </b></p>
 			            <div id="accordion">
 
@@ -831,7 +831,7 @@
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">Advisory Committee:</b> DR. </p>
+                      <p><b style="color: #cf6a14;">Advisory committee:</b> DR. </p>
 
                     </div>
 
