@@ -74,7 +74,7 @@
 				 <li><a href="#">Current News</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#about">APOGS PG Forum</a></li>
+          <li><a class="nav-link scrollto" href="#about">EDUCATIONAL PROGRAMME</a></li>
 		  <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Calander of Events</a></li>
@@ -586,11 +586,11 @@
 
                     <div class="panel-body" style="background-color: #fff;">
 
-                      <p><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="PADMAJA"></a></p>
+                      <p><a href="assets/img/photo_home/committee/Kurnool_president_Indira.jpg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Kurnool_president_Indira.jpg" alt="INDIRA"></a></p>
 
                       <br>
 
-                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. </p>
+                      <p><b style="color: #cf6a14;">PRESIDENT :</b> DR. INDIRA </p>
 					  
                       <p><a href="assets/img/photo_home/committee/Kurnool_SManikyaRAO.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Kurnool_SManikyaRAO.jpeg" alt="MANIKYA"></a></p>
 					  <br>
