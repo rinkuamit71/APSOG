@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>APOGS - Home Page</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <!--<link href="assets/css/bootstrap.min.css" rel="stylesheet" >-->
+
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+  <div class="mar" style="background-color: #d6dde3;"> </div>
+    
+
+      <h1 class="logo me-auto"><a href="index.html">APOGS</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+<div class="container d-flex align-items-center">
+           <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+		  <li class="dropdown"><a href="#"><span>About APOGS</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="history.html">History</a></li>
+              <li><a href="APOGS_Logo_Signifcance.html">APOGS's Logo & Its Signifcance</a></li>
+              <li><a href="Milestones.html">Milestones</a></li>
+              <li><a href="Past_President.html">Past President</a></li>
+			   <li><a href="Past_Office_Bearers.html">Past Office Bearers</a></li>
+			    <li><a href="APOGS_committee.html">APOGS committee</a></li>
+				 <li><a href="Constitution">Constitution</a></li>
+            </ul>
+          </li>
+		  <li class="dropdown"><a href="#"><span>Members Information</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+             
+			    <li><a href="Elections.html">Elections</a></li>
+				 <li><a href="Members_Achievements.html">Members Achievements</a></li>
+				 <li><a href="Members_Hobbies.html">Members Hobbies</a></li>
+				 <li><a href="Current_News.html">Current News</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="Educational Programme.html">Educational Programme</a></li>
+		  <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="Calendar_Events.html">Calendar of Events</a></li>
+              <li><a href="APOGS_Forthcoming_Events.html">APOGS Forthcoming Events</a></li>
+              <li><a href="Other_Events.html">Other Events</a></li>
+              <li><a href="Events_2021-22.html">Events Of 2021-22 </a></li>
+			   <li><a href="Events_2020-21.html">Events Of 2020-21</a></li>
+			    
+            </ul>
+          </li>
+		  
+		   <li class="dropdown"><a href="#"><span>Publications</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="APOGS_Publications.html">APOGS Publications</a></li>
+              <li><a href="Publications_members.html">Publications by members</a></li>
+              <li><a href="Useful_Links.html">Useful Links</a></li>
+              <li><a href="FOGSI_ICOG Publications.html">FOGSI / ICOG Publications </a></li>
+			   
+            </ul>
+          </li>
+		  
+		   <li class="dropdown"><a href="#"><span>Useful Info</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              
+              <li><a href="APOGS_Prizes_Awards.html">APOGS Prizes and Awards</a></li>
+              <li><a href="Fellowships_certificate_courses.html">Fellowships and certificate courses</a></li>
+              <li><a href="FOGSI_social_security_scheme.html">FOGSI social security scheme </a></li>
+			   <li><a href="Medical_Survey.html">Medical Survey</a></li>
+			    <li><a href="Scientific_Presentations.html">Scientific Presentations</a></li>
+				 
+				 
+            </ul>
+          </li>
+		  
+		   <li class="dropdown"><a href="#"><span>Clinical Guidelines</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="Good Clinical Practice.html">Good Clinical Practice</a></li>
+              <li><a href="GOI_Guidelines.html">GOI Guidelines</a></li>
+              <li><a href="GOI Acts & Rules.html">GOI Acts & Rules</a></li>
+              <li><a href="FOGSI_Indemnity_Bond.html">FOGSI Indemnity Bond</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="Classifieds.html">Classifieds</a></li>
+          <!--<li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>-->
+          <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
+          <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li>-->
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar --><!-- .navbar -->
+
+    </div>
+	
+  </header><!-- End Header -->
+  
+
+
+  
+  
+
+  <main id="main">
+   <section id="message">
+
+  <div class="container">
+
+    <div class="row">
+
+      <h2 class="welcomee">History</h2>
+
+      <hr>
+
+      <p class="marginDown"></p>
+
+      <div class="col-lg-2"> <a href="img/about/about-bsog-150x136.jpg"><img class="size-thumbnail wp-image-316 alignleft" src="img/about/about-bsog-150x136.jpg" alt="about-bsog" width="150" height="136"></a></div>
+
+      <div class="col-lg-10">
+
+        <p class="marginDown"></p>
+
+        <p><strong>Compiled in the year : 2004-05</strong><br>
+
+          <strong>Presented at : Building Inaguration<br>
+
+          </strong><br>
+
+          Bangalore Society of Obstetrics &amp; Gynaecology was born on 14th of August 1968 at Vanivilas Hospital. It was the first ObG society to be started in Karnataka and the 24th member society of FOGSI.</p>
+
+      </div>
+
+      <p>Dr. Rathna Bai Moray, the then Professor and HOD at VVH was the founder President. The Inaugural Ceremony was a simple one and the Chief Guest at the Inauguration was Dr. B. N. Lingaraju, Director of Medical Education of Karnataka at that time. Thus began the humble beginnings of our society with just 25 members. In subsequent years the HOD of Vanivilas Hospital was automatically the President of BSOG. The society meetings were simple gatherings attended mostly by postgraduates and senior doctors of the Institution. The scientific deliberations were highly interesting &amp; interactive. It is interesting to note that there were guest lectures by famous personalities like Dr. B.N. Purandare, Dr. Sonawala, Dr. M K K Menon, Dr. Dasgupta, Dr. Lawson and even Dr.Lippe of the Lippe’s loop fame</p>
+
+      <p>Amongst subsequent Presidents Dr. P.R. Desai was the ‘hatrick president’ who was elected thrice to the post. BSOG hosted the first Karnataka State Conference from 26th to 28th May 1978. Well over 100 delegates from all over Karnataka attended this conference. With the experience of having conducted this conference our society went ahead to host its first National conference – the 23rd All India Congress of Obstetrics &amp; Gynaecology from 28th to 31st December 1979. This was held at Bangalore Medical College. It was the first time in the history of FOGSI that a profit was made in a conference, though a small one!</p>
+
+      <p>Right from the beginning we always dreamt of having our own building for the society. A building fund was created in 1980 and about Rs.1 lakh was collected. Credit goes to Dr. Sulochana Gunasheela who became President later and opened the floodgates to the private gynaecologists of the city. The society saw more participation from the private sector. The attendance at meetings was encouraging and it inspired the office bearers to do more &amp; more. The trend continued under the leadership of subsequent presidents namely Dr. Sita Bhateja, Dr. Malathi Rao, Dr. Jaya Narendra and Dr. Narayanan. This tempo was maintained in the ensuing years.</p>
+
+      <p>Some of our members took bigger strides and stepped into the parent organization: FOGSI. Dr. Kamini Rao was the first member to be elected as the Chairperson of Fetal Medicine &amp; Genetics Committee in 1991.</p>
+
+      <p>BSOG celebrated its Silver Jubilee in 1993 on 3rd and 4th November when Dr. Jaya Balasundaram was the President. The membership at this stage had grown to 293. A Souvenir was released to mark the successful completion of 25years. The creativity in Dr. Narayanan took the form of our beautiful emblem that he designed for our society.</p>
+
+      <p>The next year (1994) saw our society host yet another State conference. That was a very well attended, informative &amp; interactive one.</p>
+
+      <p>Dr. Kamini Rao was elected Senior Vice President of FOGSI in 1997.</p>
+
+      <p>The year 1999 was marked by our society hosting the State Conference for the third time. The 13th Karnataka State Conference was held from 28th to 30th August 1999 under the leadership of Dr.Hema Divakar who was also the president at that time.</p>
+
+      <p>In the next few months ISOPARB 2000 was conducted by BSOG. In the same year, BSOG hosted the first ever south zone conference “Dakshin” which was held on 13th &amp; 14th October 2000.</p>
+
+      <p>It was a moment of jubilation when Dr. Kamini Rao took over as President of FOGSI for the year 2000-2001 at the National Conference in Ahmedabad. She is the youngest President of FOGSI till date.</p>
+
+      <p>Our society won the best Society award for Category – A Societies at the FOGSI Conference in 2001 in Bhubaneshwar under the presidentship of Dr. Pushpa Srinivas.</p>
+
+      <p>BSOG had the privilege of hosting an International conference in the year 2002- from Sept 5th to 10th. That was the 18th Asian &amp; Ocaeanic Conference of Obstetrics &amp; Gynecology. BSOG played host to several International speakers of great repute and provided a scientific bonanza to the delegates. Indeed a memorable event!</p>
+
+      <p>Early Jan 2003 Bangalore was flooded by Obstetricians from all over India and abroad. The biggest event in the history of our society – The 43rd AICOG was conducted at the Palace Grounds with a record attendance of over 5000 delegates.</p>
+
+      <p>In keeping with the times, our society launched its website in 2003.<br>
+
+        In 2004, BSOG gave birth to its first baby “Gnanavarsha”. The annual conference of the society attracts participants from all over the state, and it is a matter of pride that Gnanavarsha 2006 made it possible to have video-conference from UK &amp; Australia too.</p>
+
+      <p>In 2005 our BSOG members made us proud again, at the national level. Dr. Hema Divakar was elected as the Senior Vice President of FOGSI and Dr. Kamini Rao as the first lady member and the first person from BSOG to be chosen as the FOGSI representative to FIGO – Federation of International Gynaecologists &amp; Obstetricians.</p>
+
+      <p>All the Presidents of our society and senior members had one common dream – the dream of having our own premises. The dream has become a reality today. In 2005, our society acquired a property to call our own, at Seshadripuram under the leadership of the BSOG President Dr. Mohini N. Prasad.</p>
+
+      <p>The following year, under the presidentship of Dr. Sheela Mane, the society surged forward to get the DK Tank award for exemplary work in social and community services.</p>
+
+      <p>The current committee, under the presidentship of Dr. Lata Venkatram is working out ways to prevent obstetric catastrophies and bring down maternal mortality in our country. Plans are on to have regular training in Emergency Obstetric Care.</p>
+
+      <p>Finally to quote Stephen Covey, the author of Principle centred Leadership, An empowered organization is one in which individuals have the knowledge, skill, desire, and opportunity to personally succeed in a way that leads to collective organizational success. Bangalore Society of Obstetrics &amp; Gynecology is indeed an empowered organization.</p>
+
+      <div class="col-lg-3"> <a href="img/about/milestones1.jpg"><img class="alignleft size-full wp-image-159" src="img/about/milestones1.jpg" alt="milestones1" width="220" height="176"></a> </div>
+
+      <div class="col-lg-9">
+
+        <p class="marginDown"></p>
+
+        <p>Trying to recall the milestones of an organization that has been so active, vibrant and dynamic is like asking a mother to recall the milestones of her child. Right from birth every single event is remarkable &amp; I am sure a mother would go on &amp; on. I shall endeavor to recall some of the major milestones of our society.</p>
+
+        <p><a href="img/about/milestones2.jpg"><img class="alignleft size-full wp-image-160" src="img/about/milestones2.jpg" alt="milestones2" width="220" height="176"></a> </p>
+
+      </div>
+
+   <p class="marginDown"></p>
+
+      <p style="text-align: right;"><strong>Dr. Mohini Prasad, President BSOG</strong></p>
+
+      <p style="text-align: right;"><strong>Dr. Susheela Rani B S, Hon.Secretary BSOG</strong></p>
+
+    </div>
+
+  </div>
+
+  </div>
+
+</section>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  
+  <footer id="footer">
+   <div class="container">
+
+    <div class="row">
+
+      <div class="col-lg-6">
+	  
+      <div class="copyright" style="color:#FFFFFF;">
+       <p> &copy; Copyright <a href="index.html" target="_blank" style="color:#FFFFFF;"><strong><span>APOGS 2022</span></strong></a> All Rights Reserved</p>
+      </div>
+	  <!--
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ 
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>-->
+
+    
+    
+    </div>
+	
+	 <div class="col-lg-6">
+
+        <div class="foot-update" align='right' style="color:#FFFFFF;"> Last Update: 06/01/2022</div>
+
+      </div>
+	  </div>
+	  </div>
+	  
+	  
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
