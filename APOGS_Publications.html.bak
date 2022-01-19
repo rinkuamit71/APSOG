@@ -75,8 +75,9 @@
             <ul>
               <li><a href="Calendar_Events.html">Calendar of Events</a></li>
               <li><a href="APOGS_Forthcoming_Events.html">APOGS Forthcoming Events</a></li>
-              <li><a href="Past_Events.html">Past Year Events</a></li>
-       
+              <li><a href="Other_Events.html">Other Events</a></li>
+              <li><a href="Events_2021_22.html">Events Of 2021-22 </a></li>
+			   <li><a href="Events_2020_21.html">Events Of 2020-21</a></li>
 			    
             </ul>
           </li>
@@ -130,37 +131,29 @@
   
 
   <main id="main">
+   <section id="hero">
 
-  <section id="hero" style="height: 70vh;">
-  <div class="container"  >
- 
+  <div class="container">
    <div class="section-title">
-          <h2>History</h2>
-   </div>
-  
-<div class="row">
-   <div class="col-sm-2">
-   <img  src="assets/img/photo_home/slidar/history_2021.jpeg" alt="history-apogs" width="250" height="200">
-   </div>
-  <div class="col-sm-10" style ="font-size: 20px; padding-left: 100px;">
-	<p class="marginDown"></p>
-
-		Andhra Pradesh Obstetrics and Gynaecology Society started as independent body after seperation of 
-		combined state Andhra Pradesh into Andhra Pradesh and Telangana.
-	
-	<p>
-		The need for state body is recognised by all Obstetrics and gynaecologists and a meeting was held in Vijayawada under the 
-		guidance of Dr R S Rama Devi,who initiated the process to establish Andhra Pradesh Obstetrics and 
-		Gynaecology Society.</p>
-		
-	<p>
-		<strong>Dr. R S Rama Devi,Founder President of APOGS ,Dr. V Sri Devi as Founder Secretary.</strong>
-	</p>
-
-</div>
-</div>
-</div>
-</section>
+          <h2>APOGS PUBLICATIONS</h2>
+          
+        </div>
+      <div class="row">      
+	<div class="col-lg-12 d-flex ">
+		<div class="info">
+			<H3>Anyone wants to publish their presentations,kindly send them on below mail id :- </H3>
+	  
+	  <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <h2>apogs2022@gmail.com</h2>
+              </div>
+			  
+	</DIV>		  
+</DIV>
+</DIV>
+</DIV>
+</SECTION>
 
   </main><!-- End #main -->
 

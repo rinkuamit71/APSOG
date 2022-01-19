@@ -75,9 +75,9 @@
             <ul>
               <li><a href="Calendar_Events.html">Calendar of Events</a></li>
               <li><a href="APOGS_Forthcoming_Events.html">APOGS Forthcoming Events</a></li>
-              <li><a href="Other_Events.html">Other Events</a></li>
-              <li><a href="Events_2021_22.html">Events Of 2021-22 </a></li>
-			   <li><a href="Events_2020-21.html">Events Of 2020-21</a></li>
+             
+             
+			   <li><a href="Past_Events.html">Past Year Events</a></li>
 			    
             </ul>
           </li>
@@ -147,7 +147,7 @@
 
 <!-- add to the <body> of your page -->
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" >
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -155,29 +155,44 @@
     <li data-target="#myCarousel" data-slide-to="2"></li>
 	<li data-target="#myCarousel" data-slide-to="3"></li>
 	<li data-target="#myCarousel" data-slide-to="4"></li>
+	<li data-target="#myCarousel" data-slide-to="5"></li>
+	
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="assets/img/photo_home/slidar/12352.jpg" alt="photo1">
+ 
+  <div class="carousel-inner"  >
+    <div class="item active" >
+      <img src="assets/img/photo_home/slidar/2021_1.jpeg" alt="photo1"  style=" width: 70%;
+   margin: auto;">
     </div>
 
     <div class="item">
-      <img src="assets/img/photo_home/slidar/12354.jpg" alt="photo2">
+      <img src="assets/img/photo_home/slidar/2021_2.jpeg" alt="photo2"  style=" width: 70%;
+   margin: auto;" >
     </div>
 
 	<div class="item">
-      <img src="assets/img/photo_home/slidar/hero-img.png" alt="photo3">
+      <img src="assets/img/photo_home/slidar/2021_3.jpeg" alt="photo3" style=" width: 70%;
+   height: auto;" >
     </div>
 	
     <div class="item">
-      <img src="assets/img/photo_home/slidar/DSC_0106.jpg" alt="photo4">
+      <img src="assets/img/photo_home/slidar/2021_4.jpeg" alt="photo4" style=" width: 70%;
+   margin: auto;"  >
     </div>
 	
+	<div class="item">
+      <img src="assets/img/photo_home/slidar/2021_5.jpeg" alt="photo5" style=" width: 70%;
+   margin: auto;" >
+    </div>
+	<div class="item">
+      <img src="assets/img/photo_home/slidar/history_2021.jpeg" alt="photo6" style=" width: 70%;
+   margin: auto;" >
+    </div>
 
   <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev" >
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -355,7 +370,7 @@
                       <br>
 
                       <p class="center"><b style="color: #cf6a14;" class="align-items-center" >Vizag :</b> DR. T. RADHA</p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  9849666803</p>
 					  
 					  
 
@@ -395,7 +410,7 @@
                       <br>
 
                       <p class="center"> <b style="color: #cf6a14;"  >Vizag :</b> DR. V SITA RAMA RAJU</p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9849116909 </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/Vizianagaram_EM_IKrishnaSanthi.jpeg">
 					  <img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Vizianagaram_EM_IKrishnaSanthi.jpeg" 
@@ -404,25 +419,25 @@
                       <br>
 
                       <p class="center"><b style="color: #cf6a14;">Vizianagaram : </b> DR. I. KRISHNA SANTHI </p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9849650014 </p>
 					  
                       <p class="center"><a href="assets/img/photo_home/committee/SRIKAKULAM_EM_IVani.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/SRIKAKULAM_EM_IVani.jpeg" alt="DR. I VANI" style="width:75%;"></a></p>
 					  <br>
 
-                      <p class="center"><b style="color: #cf6a14;">Srikakulam : </b> DR. I. VANI</p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+                      <p class="center"><b style="color: #cf6a14;">Srikakulam : </b> DR. I. VANI</p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9346627652 </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="DR. KARUNA KUMARI" style="width:75%;"></a></p>
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;">Kakinada : </b> DR. KARUNA KUMARI </p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+                      <p class="center"><b style="color: #cf6a14;">Kakinada : </b> DR. KARUNA KUMARI </p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9912146444 </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg">
 					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg" ALT ="DR. K ARUNA KUMARI"style="width:75%;"></a></p>
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;">Rajahmundry : </b>DR. K. ARUNA KUMARI</p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9948590224 </p>
+                      <p class="center"><b style="color: #cf6a14;">Rajahmundry : </b>DR. K. ARUNA KUMARI</p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 
                     </div>
 
@@ -827,7 +842,7 @@
                       <p class="center"><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="None" style="width:75%;"></a></p>
 					  <br>
 
-                      <p class="center"><b style="color: #cf6a14;">SECRETARY :</b> DR.</p>
+                      <p class="center"><b style="color: #cf6a14;">SECRETARY :</b> DR.Padmavathi Polakallu</p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 
                     </div>
@@ -1108,7 +1123,7 @@
                       <p class="center"><b style="color: #cf6a14;">PRESIDENT :</b> DR. B. ARUNA</p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9866806091 </p>
 					  
-                      <p class="center"><a href="assets/img/photo_home/committee/Anantapur_KrishnaShasi.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Anantapur_KrishnaShasi.jpeg" alt="KRISHNA" style="width:75%;"></a></p>
+                      <p class="center"><a href="assets/img/photo_home/committee/Anantapur_EM_Krishna Shasi.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/Anantapur_EM_Krishna Shasi.jpeg" alt="KRISHNA" style="width:75%;"></a></p>
 					  <br>
 
                       <p class="center"><b style="color: #cf6a14;">SECRETARY :</b> DR. SRI KRISHNA SASI</p>
@@ -1216,7 +1231,7 @@
 
                     <div class="panel-body" style="background-color: #fff;">
 
-                      <p class="center"><a href="assets/img/photo_home/committee/.jpg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpg" alt="DR. P SUSHEELA" style="width:75%;"></a></p>
+                      <p class="center"><a href="assets/img/photo_home/committee/treasurer_Suseela.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/treasurer_Suseela.jpeg" alt="DR. P SUSHEELA" style="width:75%;"></a></p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9848309889 </p>
 
                       
@@ -1292,7 +1307,7 @@
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2015 : </b> DR. R. S. RAMA DEVI </p>
+                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">FOUNDER PRESIDENT 2015 : </b> DR. R. S. RAMA DEVI </p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/.jpeg">
@@ -1300,7 +1315,7 @@
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2016 : </b> DR. SARADA </p>
+                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">PRESIDENT 2016 : </b> DR. SARADA </p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/Dr_Yasodhara_President_APOGS_2017.jpg">
@@ -1308,7 +1323,7 @@
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2017 : </b> DR. YASODHARA</p>
+                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">PRESIDENT 2017 : </b> DR. YASODHARA</p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/Dr_Jyothirmai__President_APOGS_2018.jpg">
@@ -1316,7 +1331,7 @@
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2018 : </b> DR. JYOTHIRMAI </p>
+                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">PRESIDENT 2018 : </b> DR. JYOTHIRMAI </p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/Guntur_VenkateswaraRao.jpeg">
@@ -1324,16 +1339,10 @@
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2019 : </b> DR. VENKATESWARA RAO </p>
+                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">PRESIDENT 2019 : </b> DR. VENKATESWARA RAO </p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9440534515 </p>
 					  
-					  <p class="center"><a href="assets/img/photo_home/committee/GangaSuchismita.jpeg">
-					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/GangaSuchismita.jpeg" style="width:75%;"></a></p>
-
-                      <br>
-
-                      <p class="center"><b style="color: #cf6a14;" class="align-items-center">2021 : </b> DR. GANGA SUCHISMITA</p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9848956161 </p>
+					  
 
                     </div>
 
@@ -1363,13 +1372,13 @@
 
                     <div class="panel-body" style="background-color: #fff;">
 
-                      <p class="center"><a href="assets/img/photo_home/committee/Ongole_Sridevi.jpeg">
-					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/Ongole_Sridevi.jpeg" style="width:75%;"></a></p>
+                      <p class="center"><a href="assets/img/photo_home/committee/Founder_secretary_Vellanki_Sridevi.jpeg">
+					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/Founder_secretary_Vellanki_Sridevi.jpeg" style="width:75%;"></a></p>
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;">2015 : </b>DR. V. SRIDEVI</p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9703640664 </p>
+                      <p class="center"><b style="color: #cf6a14;">2015 : </b>DR. VELLANKI SRIDEVI</p>
+					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9492488312 </p>
 					  <p class="center"><a href="assets/img/photo_home/committee/Guntur_VenkateswaraRao.jpeg">
 					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/Guntur_VenkateswaraRao.jpeg" style="width:75%;"></a></p>
 
@@ -1377,13 +1386,13 @@
 
                       <p class="center"><b style="color: #cf6a14;">2016 : </b>DR. VENKATESWARA RAO</p>
 					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9440534515 </p>
-					  <p class="center"><a href="assets/img/photo_home/committee/RAJAHMUNDRY_Padmaja.jpeg">
-					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/RAJAHMUNDRY_Padmaja.jpeg" style="width:75%;"></a></p>
+					  <p class="center"><a href="assets/img/photo_home/committee/VPadmaja_PastSecretary_2107.jpeg">
+					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/VPadmaja_PastSecretary_2107.jpeg" style="width:75%;"></a></p>
 
                       <br>
 
-                      <p class="center"><b style="color: #cf6a14;">2017 : </b>DR. PADMAJA</p>
-					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9849309797 </p>
+                      <p class="center"><b style="color: #cf6a14;">2017 : </b>DR. V PADMAJA</p>
+					  <p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile:  </p>
 					  
 					  <p class="center"><a href="assets/img/photo_home/committee/Uma_Shankar.jpeg">
 					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/Uma_Shankar.jpeg" style="width:75%;"></a></p>

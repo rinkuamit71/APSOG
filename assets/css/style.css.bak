@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
   color: #47b2e4;
-  background:#dad06d;
+  background:#1c1a05;
 }
 
 .navbar .dropdown:hover > ul {
@@ -392,6 +392,18 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   /*color: rgba(255, 255, 255, 0.6);*/
   color: #37517e;
+  margin-bottom: 50px;margin-bottom: 50px;
+  font-size: 20px;
+   letter-spacing: 2px;
+   margin: 20px 0 0 0;
+   line-height: 30px;
+   
+   
+}
+
+#hero h3 {
+  /*color: rgba(255, 255, 255, 0.6);*/
+  color: #1a320f;
   margin-bottom: 50px;
   font-size: 20px;
    letter-spacing: 2px;
@@ -1632,6 +1644,12 @@ section {
 #footer {
   font-size: 14px;
   background: #37517e;
+  position: fixed;
+  margin-top: 180px;
+  /* negative value of footer height */
+  height: -80px;
+  clear: both;
+  
 }
 
 #footer .footer-newsletter {
