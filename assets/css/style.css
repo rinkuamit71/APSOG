@@ -268,10 +268,11 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #f6f6f6;
   font-size: 28px;
   cursor: pointer;
   display: none;
+  
   line-height: 0;
   transition: 0.5s;
 }
