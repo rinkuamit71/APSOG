@@ -40,10 +40,10 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
-  <div class="mar" style="background-color: #d6dde3;"> </div>
+  
     
 
-      <h1 class="logo me-auto"><a href="index.html">APOGS</a></h1>
+      <h3 class="logo me-auto"><a href="index.html">Andhra Pradesh Society of Obstetrics & Gynaecology</a></h3>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 <div class="container d-flex align-items-center">
@@ -142,7 +142,7 @@
    <div class="col-sm-2">
    <img  src="assets/img/photo_home/slidar/history_2021.jpeg" alt="history-apogs" width="250" height="200">
    </div>
-  <div class="col-sm-10" style ="font-size: 20px; padding-left: 150px;">
+  <div class="col-sm-10" style ="font-size: 20px; padding-left: 100px;">
 	<p class="marginDown"></p>
 
 		Andhra Pradesh Obstetrics and Gynaecology Society started as independent body after seperation of 
