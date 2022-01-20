@@ -79,7 +79,7 @@
      <!-- <h1 class="logo me-auto"><a href="index.html">APOGS</a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-<div class="container " style="background-color: #37517e" class="col-sm-12>
+<div class="container " style="background-color: #37517e" class="col-sm-12">
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>

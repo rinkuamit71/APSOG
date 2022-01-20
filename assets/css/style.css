@@ -199,6 +199,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #31a9e1;
 }
 
+/*dropdown 253bbc*/
 .navbar .dropdown ul {
   display: block;
   position: absolute;
@@ -218,13 +219,13 @@ h1, h2, h3, h4, h5, h6 {
 .navbar .dropdown ul li {
   min-width: 200px;
 }
-
+/*f6f6f6*/
 .navbar .dropdown ul a {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
   font-weight: 500;
-  color: #f6f6f6;
+  color: #fff;
 }
 
 .navbar .dropdown ul a i {
@@ -345,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: #253bbc;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
