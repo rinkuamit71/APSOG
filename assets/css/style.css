@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: #f6f6f6;
+  background: rgba(40, 58, 90, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #f6f6f6;
   overflow-y: auto;
   transition: 0.3s;
 }

@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #f6f6f6;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(40, 58, 90, 0.9);
+  background: #f6f6f6;
   transition: 0.3s;
   z-index: 999;
 }
