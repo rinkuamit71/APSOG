@@ -148,6 +148,8 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
+  margin: 0;
+  
 }
 
 .navbar ul {
@@ -371,6 +373,13 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+.logoName1
+{
+color: #fff;	
+font-size: 22px;
+position: left;
+
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -385,7 +394,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .container1 {
-  padding: 380px;
+  padding: 180px;
 }
 
 #hero h1 {
