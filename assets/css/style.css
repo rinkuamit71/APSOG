@@ -338,6 +338,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #37517e;
 }
 
+/*drop down*/
 .navbar-mobile .dropdown ul {
   position: static;
   display: none;
@@ -381,6 +382,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .container {
   padding-top: 72px;
+}
+
+#hero .container1 {
+  padding: 180px;
 }
 
 #hero h1 {

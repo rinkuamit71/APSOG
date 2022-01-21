@@ -21,7 +21,7 @@
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
@@ -34,7 +34,7 @@
  <!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>-->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!--<link href="assets/css/bootstrap.min.css" rel="stylesheet" >-->
 
@@ -45,12 +45,13 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
-   <h3 class="logo me-auto"><a href="index.html">APSOG</a></h3>
+  <div class="mar" style="background-color: #d6dde3;"> </div>
+   <h1 class="logo me-auto"><a href="index.html" style="padding:20px">APOGS</a></h1>
 
      <!-- <h1 class="logo me-auto"><a href="index.html">APOGS</a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-<div class="container d-flex align-items-center"  >
+<div class="container1 d-flex align-items-center"  >
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
@@ -2128,7 +2129,7 @@
                 <p>9848590244</p>
               </div>
 
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239.0774272512887!2d80.62967699085067!3d16.514035783353982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35effe4a0b3df5%3A0xb4f13a7dd38ac47c!2s27%201%2C%2011%2C%20Eluru%20Rd%2C%20Near%20Ramamandiram%2C%20Arundalpet%2C%20Governor%20Peta%2C%20Vijayawada%2C%20Andhra%20Pradesh%20520002%2C%20India!5e0!3m2!1sen!2sbg!4v1641400373404!5m2!1sen!2sbg" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen="" loading="lazy>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239.0774272512887!2d80.62967699085067!3d16.514035783353982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35effe4a0b3df5%3A0xb4f13a7dd38ac47c!2s27%201%2C%2011%2C%20Eluru%20Rd%2C%20Near%20Ramamandiram%2C%20Arundalpet%2C%20Governor%20Peta%2C%20Vijayawada%2C%20Andhra%20Pradesh%20520002%2C%20India!5e0!3m2!1sen!2sbg!4v1641400373404!5m2!1sen!2sbg" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen="" loading="lazy">
 			</iframe>
 			
 			
