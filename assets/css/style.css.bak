@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
+  /*padding: 15px 0;*/
   background: #37517e;
 }
 
@@ -394,8 +394,8 @@ margin:0;
 }
 
 #hero .container1 {
-  padding: 0;
-  margin: 0;
+  padding-top: 72px;
+  
 }
 
 #hero h1 {
