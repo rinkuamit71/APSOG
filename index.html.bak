@@ -47,11 +47,8 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
  
-  <div class="logoName1">
-   
-	<a href="index.html" style="#fff">&nbsp;&nbsp;&nbsp; APOGS </a>
-	
-  </div>
+  <h1 class="logo me-auto"><a href="index.html">&nbsp;&nbsp;&nbsp;APOGS</a></h1>
+ 
   
    
    
