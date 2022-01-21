@@ -31,10 +31,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   
- <!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>-->
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!--<link href="assets/css/bootstrap.min.css" rel="stylesheet" >-->
 
@@ -153,7 +150,7 @@
 
 <!-- add to the <body> of your page -->
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel" style="padding-top:110px;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="padding-top:100px;">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -432,14 +429,14 @@
 
                       <p class="center"><b style="color: #cf6a14;">Srikakulam : </b> DR. I. VANI</p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9346627652 </p>
 					  
-					  <p class="center"><a href="assets/img/photo_home/committee/.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" alt="DR. KARUNA KUMARI" style="width:75%;"></a></p>
+					  <p class="center"><a href="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg"><img class="alignleft size-full wp-image-913" src="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg" alt="DR. KARUNA KUMARI" style="width:75%;"></a></p>
 
                       <br>
 
                       <p class="center"><b style="color: #cf6a14;">Kakinada : </b> DR. KARUNA KUMARI </p><p class="center"><b style="color: #cf6a14;" class="align-items-center" ></b> Mobile: 9912146444 </p>
 					  
-					  <p class="center"><a href="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg">
-					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/KAKINADA_karunakumari.jpeg" ALT ="DR. K ARUNA KUMARI"style="width:75%;"></a></p>
+					  <p class="center"><a href="assets/img/photo_home/committee/.jpeg">
+					  <img class="aligncenter size-full wp-image-913" src="assets/img/photo_home/committee/.jpeg" ALT ="DR. K ARUNA KUMARI"style="width:75%;"></a></p>
 
                       <br>
 
