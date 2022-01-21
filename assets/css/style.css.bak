@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .navbar {
   padding: 0;
-  margin: 0;
+  
   
 }
 
@@ -376,9 +376,9 @@ h1, h2, h3, h4, h5, h6 {
 .logoName1
 {
 color: #fff;	
-font-size: 22px;
-position: left;
-
+font-size: 30px;
+position: 0;
+margin:0;
 }
 /*--------------------------------------------------------------
 # Hero Section
@@ -394,7 +394,8 @@ position: left;
 }
 
 #hero .container1 {
-  padding: 180px;
+  padding: 0;
+  margin: 0;
 }
 
 #hero h1 {
@@ -408,7 +409,8 @@ position: left;
 #hero h2 {
   /*color: rgba(255, 255, 255, 0.6);*/
   color: #37517e;
-  margin-bottom: 50px;margin-bottom: 50px;
+  margin-bottom: 50px;
+  margin-bottom: 50px;
   font-size: 20px;
    letter-spacing: 2px;
    margin: 20px 0 0 0;
