@@ -29,7 +29,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!--<link href="assets/css/bootstrap.min.css" rel="stylesheet" >-->
@@ -95,7 +94,7 @@
               <li><a href="Fellowships_certificate_courses.html">Fellowships and certificate courses</a></li>
               <li><a href="FOGSI_social_security_scheme.html">FOGSI social security scheme </a></li>
 			   <li><a href="Medical_Survey.html">Medical Survey</a></li>
-			    <li><a href="Scientific_Presentations.html">Scientific Presentations</a></li>
+			    
 				 
 				 
             </ul>
@@ -127,7 +126,26 @@
   
 
   <main id="main">
-   
+   <section id="hero">
+
+  <div class="container">
+   <div class="section-title">
+          <h2>MEMBERS ACHIEVEMENTS</h2>
+          
+        </div>
+      <div class="row">      
+	<div class="col-lg-12 d-flex ">
+		<div class="info">
+			<H3>kindly send your achievements to the email provided below,so that they can be updated,</H3>
+	  
+	  
+			  
+	</DIV>		  
+</DIV>
+</DIV>
+</DIV>
+</SECTION>
+
 
   </main><!-- End #main -->
 

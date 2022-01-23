@@ -41,10 +41,7 @@
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
-  <div class="mar" style="background-color: #d6dde3;"> </div>
-    
-
-      <h1 class="logo me-auto"><a href="index.html">APOGS</a></h1>
+  <h1 class="logo me-auto"><a href="index.html">&nbsp;&nbsp;&nbsp;APOGS</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 <div class="container d-flex align-items-center">
@@ -98,7 +95,7 @@
               <li><a href="Fellowships_certificate_courses.html">Fellowships and certificate courses</a></li>
               <li><a href="FOGSI_social_security_scheme.html">FOGSI social security scheme </a></li>
 			   <li><a href="Medical_Survey.html">Medical Survey</a></li>
-			    <li><a href="Scientific_Presentations.html">Scientific Presentations</a></li>
+			    
 				 
 				 
             </ul>
@@ -130,7 +127,30 @@
   
 
   <main id="main">
-   
+   <section id="hero" style="height: 70vh;">
+  <div class="container"  >
+ 
+   <div class="section-title">
+          <h2>APOGS Logo Significance</h2>
+   </div>
+  
+<div class="row">
+   <div class="col-sm-2">
+   <img  src="assets/img/photo_home/slidar/Logo.GIF" alt="history-apogs" width="300" height="250">
+   </div>
+  <div class="col-sm-10" style ="font-size: 20px; padding-left: 120px;line-height: 35px;">
+	<p class="marginDown"></p>
+
+		The lotus flower symbolises birth and self regression. 
+		<p>lt characterises perfect anology for human life like most beautiful flower on the earth. 
+		<p>Pink colour signify devotion and dedication. Yellow colour signify happiness creativity. Green colour symbolises growth renewal and prosperity. White symbolises purity of mother and new born.
+	
+	</P></P>
+
+</div>
+</div>
+</div>
+</section>
 
   </main><!-- End #main -->
 

@@ -20,6 +20,7 @@
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
@@ -28,7 +29,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <!--<link href="assets/css/bootstrap.min.css" rel="stylesheet" >-->
@@ -94,7 +95,7 @@
               <li><a href="Fellowships_certificate_courses.html">Fellowships and certificate courses</a></li>
               <li><a href="FOGSI_social_security_scheme.html">FOGSI social security scheme </a></li>
 			   <li><a href="Medical_Survey.html">Medical Survey</a></li>
-			    <li><a href="Scientific_Presentations.html">Scientific Presentations</a></li>
+			    
 				 
 				 
             </ul>
@@ -126,7 +127,53 @@
   
 
   <main id="main">
-   
+   <section id="hero" STYLE="height: 80vh;">
+
+  <div class="container">
+  <div class="section-title">
+          <h2>CURRENT NEWS</h2>
+          
+        </div>
+
+    <div class="row">
+
+      
+
+      <hr>
+<ul STYLE="font-size: 18px;">
+
+<li><a href="https://www.fogsi.org/nominations-for-aofog-2022-2024/" target="_blank" class="fogsi-color">NOMINATIONS FOR AOFOG COMMITTEE REPRESENTATIVE (2022 – 2024)
+Application should reach to FOGSI office by 10th Feb’2022</a></li>
+
+<li><a href="https://www.fogsi.org/30th-world-congress-on-controversies-in-obstetrics-gynecology-infertility-cogi-2022/" target="_blank" class="fogsi-color">30TH WORLD CONGRESS ON CONTROVERSIES IN OBSTETRICS, GYNECOLOGY & INFERTILITY (COGI 2022)</a></li>
+
+<li><a href="https://www.fogsi.org/rcog-world-congress-2022-early-bird-registration-now-open/" target="_blank" class="fogsi-color">EARLY BIRD REGISTRATION FOR RCOG WORLD CONGRESS 2022 NOW OPEN</a></li>
+
+
+<li><a href="https://www.fogsi.org/10th-asia-pacific-breast-cancer-summit-apbcs-2022/" target="_blank" class="fogsi-color">10TH ASIA PACIFIC BREAST CANCER SUMMIT (APBCS) 2022</a></li>
+<li><a href="https://www.fogsi.org/18th-biennial-international-conference-2022-from-25-27th-february-2022-at-movin-pick-hotel-karachi-pakistan/" target="_blank" class="fogsi-color">18TH BIENNIAL INTERNATIONAL CONFERENCE 2022 FROM 25 -27TH FEBRUARY, 2022 AT MOVIN PICK HOTEL, KARACHI, PAKISTAN</a></li>
+<li><a href="https://www.eshre.eu/Annual-Meeting" target="_blank" class="fogsi-color">The 39th Annual Meeting of ESHRE will be held in Copenhagen, Denmark from 25 to 28 June 2023.
+ESHRE’s 38th Annual Meeting will take place from 3 to 6 July 2022 in Milan, Italy. 
+Abstract submission deadline: 1 February 2022 (23:59 CET).</a></li>
+
+<li><a href="https://www.asrm.org/events/2022-scientific-congress-and-expo/" target="_blank" class="fogsi-color">2022 Scientific Congress and Expo</a></li>
+
+<li><a href="https://fusion2022conf.com/" target="_blank" class="fogsi-color">FUSION 2022, Virtual Conference, a joint ESHRE, IFS and ISAR International Conference on Reproductive Medicine and ART. 4th - 6th Feb, 2022</a></li>
+</ul>
+
+
+
+		<br/>
+
+		<br/><br/>
+
+       
+
+  </div>
+
+  </div>
+
+</section>
 
   </main><!-- End #main -->
 
