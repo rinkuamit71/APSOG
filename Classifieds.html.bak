@@ -151,12 +151,12 @@
     </div>
 	
     <div class="item">
-      <img src="assets/img/photo_home/slidar/Classified_4.jpeg" alt="photo4" style=" width: 50%;
+      <img src="assets/img/photo_home/slidar/Classified_4.jpeg" alt="photo4" style=" width: 60%;
    margin: auto;"  >
     </div>
 	
 	<div class="item">
-      <img src="assets/img/photo_home/slidar/Classified_5.jpeg" alt="photo5" style=" width: 50%;
+      <img src="assets/img/photo_home/slidar/Classified_5.jpeg" alt="photo5" style=" width: 60%;
    margin: auto;" >
     </div>
 	<!--
