@@ -142,7 +142,7 @@
  
  <object height="950" data="FOGSI_2022_educational.pdf" type="application/pdf" width="860">
   <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="assets/img/FOGSI_2022_educational.pdf">click here to
+    No biggie... you can <a href="assets/img/FOGSI_2022_educational1.pdf">click here to
     download the PDF file.</a>
   </p>
 </object>
@@ -155,11 +155,11 @@
 <embed src="https://drive.google.com/file/d/0B1wr_E_mSp2Ec3RhcnRlcl9maWxl/preview?usp=sharing" frameborder="0" width="100%" height="1000px"
 <!--div class="row">
    <div class="col-sm-12">
-   <img  src="assets/img/FOGSI_2022_educational.pdf" alt="history-apogs" >
+   <img  src="assets/img/FOGSI_2022_educational1.pdf" alt="history-apogs" >
    </div-->
   
-  <object data="assets/img/FOGSI_2022_educational.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="1200 height="1425">
-<a href="assets/img/FOGSI_2022_educational.pdf">FOGSI 2022 Educational.pdf</a>
+  <object data="assets/img/FOGSI_2022_educational.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="1200" height="1425">
+<a href="assets/img/FOGSI_2022_educational1.pdf">FOGSI 2022 Educational.pdf</a>
 </object>
 </div>
 
