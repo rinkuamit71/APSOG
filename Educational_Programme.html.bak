@@ -137,19 +137,19 @@
  
 
 <!--embed
-  src="assets/img/FOGSI_2022_educational.pdf#toolbar=0&navpanes=0&scrollbar=0"
+  src="assets/img/FOGSI_2022_educational1.pdf#toolbar=0&navpanes=0&scrollbar=0"
   width="1200" height="1425" />
  
- <object height="950" data="FOGSI_2022_educational.pdf" type="application/pdf" width="860">
+ <object height="950" data="FOGSI_2022_educational1.pdf" type="application/pdf" width="860">
   <p>It appears you don't have a PDF plugin for this browser.
     No biggie... you can <a href="assets/img/FOGSI_2022_educational1.pdf">click here to
     download the PDF file.</a>
   </p>
 </object>
 
-<object width="1200" height="1425" data="assets/img/FOGSI_2022_educational.pdf#toolbar=0&navpanes=0&scrollbar=0"></object>
+<object width="1200" height="1425" data="assets/img/FOGSI_2022_educational1.pdf#toolbar=0&navpanes=0&scrollbar=0"></object>
 
-<object data="FOGSI_2022_educational.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding:20px;"><embed src="https://drive.google.com/file/d/1CRFdbp6uBDE-YKJFaqRm4uy9Z4wgMS7H/preview?usp=sharing" width="100%" height="600px"/> 
+<object data="FOGSI_2022_educational1.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding:20px;"><embed src="https://drive.google.com/file/d/1CRFdbp6uBDE-YKJFaqRm4uy9Z4wgMS7H/preview?usp=sharing" width="100%" height="600px"/> 
 </object>
 
 <embed src="https://drive.google.com/file/d/0B1wr_E_mSp2Ec3RhcnRlcl9maWxl/preview?usp=sharing" frameborder="0" width="100%" height="1000px"
@@ -158,7 +158,7 @@
    <img  src="assets/img/FOGSI_2022_educational1.pdf" alt="history-apogs" >
    </div-->
   
-  <object data="assets/img/FOGSI_2022_educational.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="1200" height="1425">
+  <object data="assets/img/FOGSI_2022_educational1.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="1200" height="1425">
 <a href="assets/img/FOGSI_2022_educational1.pdf">FOGSI 2022 Educational.pdf</a>
 </object>
 </div>
